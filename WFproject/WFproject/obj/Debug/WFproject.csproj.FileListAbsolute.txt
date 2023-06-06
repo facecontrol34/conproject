@@ -1,0 +1,57 @@
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\WFproject.exe.config
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\WFproject.exe
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\WFproject.pdb
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.csproj.AssemblyReference.cache
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.Properties.Resources.resources
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.csproj.GenerateResource.cache
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.csproj.CoreCompileInputs.cache
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.exe
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.pdb
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.LoginForm.resources
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\MySql.Data.dll
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\System.Memory.dll
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\System.Buffers.dll
+C:\Users\facec\source\repos\WFproject\WFproject\bin\Debug\MySql.Data.xml
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.csproj.CopyComplete
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.MainForm.resources
+C:\Users\facec\source\repos\WFproject\WFproject\obj\Debug\WFproject.ConversionForm.resources
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\bin\Debug\WFproject.exe.config
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\bin\Debug\WFproject.exe
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\bin\Debug\WFproject.pdb
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\bin\Debug\System.Memory.dll
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\bin\Debug\System.Buffers.dll
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\bin\Debug\MySql.Data.xml
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.csproj.AssemblyReference.cache
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.ConversionForm.resources
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.LoginForm.resources
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.MainForm.resources
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.Properties.Resources.resources
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.csproj.GenerateResource.cache
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.csproj.CopyComplete
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.exe
+C:\Users\IVM505\OneDrive\Рабочий стол\ter-main\WFproject\WFproject\obj\Debug\WFproject.pdb
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\bin\Debug\WFproject.exe.config
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\bin\Debug\WFproject.exe
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\bin\Debug\WFproject.pdb
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\bin\Debug\System.Memory.dll
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\bin\Debug\System.Buffers.dll
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.csproj.AssemblyReference.cache
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.ConversionForm.resources
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.LoginForm.resources
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.MainForm.resources
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.Properties.Resources.resources
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.csproj.GenerateResource.cache
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.csproj.CoreCompileInputs.cache
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.csproj.CopyComplete
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.exe
+C:\Users\facec\source\repos\Andrew-main\WFproject\WFproject\obj\Debug\WFproject.pdb
