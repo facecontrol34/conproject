@@ -8,4 +8,8 @@
 - VisualStudio - среда разработки
 - MAMP PRO - софт для создания локальной среды дляя базы данных
 ## Авторы
-Всю работу по проету сделал Андрей [facecontrol34](
+Всю работу по проету сделал Андрей [facecontrol34](https://github.com/facecontrol34) .
+## Использованные источники
+* [Руководство VisualStudio](https://learn.microsoft.com/ru-ru/visualstudio/windows/?view=vs-2022)
+* [MAMP PRO руководство](https://documentation.mamp.info/)
+* [Создание БД](https://ploshadka.net/web_server_mam_pro/)
